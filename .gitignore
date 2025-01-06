@@ -1,0 +1,6 @@
+* Folders To Ignore
+/.vs/
+/bin/
+/My Project/
+/obj/
+/Properties/
