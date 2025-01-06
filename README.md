@@ -1,0 +1,1 @@
+This project creates Word Documents designed to be printed onto Avery Labels, particularly for the creation of laboratory media at NAMSA. It requires the .NET framework installed in order to be run as an EXE, and needs its dependent files.
